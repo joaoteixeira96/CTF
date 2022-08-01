@@ -1,0 +1,6 @@
+Level 0 -> 1
+
+ls -all
+cd .backup/
+grep leviathan bookmarks.html
+rioGegei8m
